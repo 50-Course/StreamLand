@@ -15,6 +15,17 @@ and concise description of the changes made - We are humans, not machines.
 
 ### Added
 
-- Initial release of `StreamLand`.
+-   Initial release of `StreamLand`.
 
+### Changed
+
+-   Move gitignore, and other git-related files to the root of the project.
+
+### Removed
+
+-   Fix the dependency issue with `dependency-graph` package on CI, and remove the package from the project.
+
+## [1.1.0] - 2024-04-24
+
+[1.1.0]: https://github.com/50-Course/StreamLand/releases/tag/v1.1.0
 [1.0.0]: https://github.com/50-Course/StreamLand/releases/tag/v1.0.0
